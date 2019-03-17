@@ -51,9 +51,10 @@ main {
 
 h1 {
     color: #FFFFFF;
+    font-weight: bold;
     font-size: 30px;
     width: 200px;
-    text-transform: capitalize;
+    text-transform: capitalize
 }
 
 @media all and (min-width: 768px){

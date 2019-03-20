@@ -5,6 +5,7 @@ body {
 
 .header {
     width: 100vw;
+    background-color: white;
     position: fixed;
     display: flex;
     flex-direction: column; 
@@ -40,8 +41,6 @@ a {
 main {
     width: 100vw;
     height: 100vh;
-    position: absolute;
-    top: 113px;
     display: flex;
     justify-content: center;
     text-align: center;
